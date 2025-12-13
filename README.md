@@ -22,12 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" height="65" alt="dart logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
-  <img width="40" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="65" alt="laravel logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" alt="flutter logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  /> -->
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="nextjs logo"  />
   <img width="30" />
