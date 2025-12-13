@@ -21,8 +21,8 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" height="65" alt="dart logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
-  <img width="50" />
+  <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="65" alt="laravel logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" alt="flutter logo"  />
