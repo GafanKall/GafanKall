@@ -72,38 +72,14 @@
 
 
 
-<div align="center">
 
-```
-██╗  ██╗███████╗███╗   ███╗ █████╗ ██╗
-██║ ██╔╝██╔════╝████╗ ████║██╔══██╗██║
-█████╔╝ █████╗  ██╔████╔██║███████║██║
-██╔═██╗ ██╔══╝  ██║╚██╔╝██║██╔══██║██║
-██║  ██╗███████╗██║ ╚═╝ ██║██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
-### Hey there! I'm **Muhammad Kemal Gafan Kusuma** 👋
-#### Full-Stack Developer · UI Craftsman · Backend Explorer
+<h1 align="center">Eyyo! I’m Kemal !</h1>
+<h2 align="center">Aspiring Multiplatform Dev | Backend & Frontend Enthusiast</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+clean+UIs+%26+powerful+APIs;Laravel+%7C+Next.js+%7C+Flask+%7C+Flutter;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Kemal Gafan Kusuma
-location: Indonesia 🇮🇩
-currently_learning: [Python, Flask, Backend Architecture]
-focus: Clean UI × Powerful Backend
-philosophy: "Code clean, ship fast, iterate always"
-open_to: Collaboration, Projects, Internships
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -132,28 +108,6 @@ open_to: Collaboration, Projects, Internships
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GafanKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GafanKall&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GafanKall&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GafanKall&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
 
 ## 🌐 Let's Connect
 
@@ -165,14 +119,6 @@ open_to: Collaboration, Projects, Internships
 
 </div>
 
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 *"The best code is the code that doesn't need to be explained."*
 
