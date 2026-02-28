@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Tech Stack : </h1>
+<h1 align="center">Tech Stack</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
@@ -47,6 +47,8 @@
 </div>
 
 ###
+
+<h1 align="center">Here to reach me</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-kemal-gafan-kusuma-3b536a29b/" target="_blank">
