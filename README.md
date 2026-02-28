@@ -44,6 +44,7 @@
 
 </div>
 
+<div align="center">
 
 *"The best code is the code that doesn't need to be explained."*
 
