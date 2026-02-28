@@ -1,10 +1,15 @@
 <div align="center">
 
-<h1 align="center">Eyyo! I’m Kemal !</h1>
-<h2 align="center">Aspiring Multiplatform Dev | Backend & Frontend Enthusiast</h1>
+# Eyyo! I'm Kemal 👋
+### Aspiring Multiplatform Dev | Backend & Frontend Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Building+clean+UIs+%26+powerful+APIs+%F0%9F%9A%80;Laravel+%7C+Next.js+%7C+Flask+%7C+Flutter;Always+learning%2C+always+shipping+%F0%9F%92%AA)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge)](https://gafan-portfolio-github-io.vercel.app/)
 
 </div>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -33,16 +38,20 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://gafan-portfolio-github-io.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kemal-gafan-kusuma-3b536a29b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kemalgafan)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 </div>
+
+---
 
 <div align="center">
 
